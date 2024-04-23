@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data science and machine learning.
 - 💞️ I’m looking to collaborate on data science analytics
 - 📫 How to reach me @sakshisingh047270@gmail.com
-- 😄 Pronouns: confident, hard-working, determinant
+- 😄 Pronouns: she/her
 
 
 <!---
